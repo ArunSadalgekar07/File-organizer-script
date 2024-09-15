@@ -38,7 +38,7 @@ A Python script that automatically organizes files in a specified directory into
 3. **Run the script**:
 
     ```bash
-    python file_organizer.py
+    python file_organizer_script.py
     ```
 
 4. **Enter the path of the folder** you want to organize when prompted. For example:
